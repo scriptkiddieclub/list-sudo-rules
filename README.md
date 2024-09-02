@@ -1,5 +1,5 @@
 # What does list-sudo-rules.sh do?
-- It checks automated sudo rules for every found user on each system through ssh login
+- It automatically checks sudo rules for every found user on each system through ssh login
 - It will accept every ssh-fingerprint automatically, if the systemes is unkown
 
 # For whom is this suitable?
